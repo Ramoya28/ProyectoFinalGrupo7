@@ -8,6 +8,10 @@ public class ProyectoFinalGrupo7 {
         Tools t = new Tools();
         System.out.println(t.FechayHora());
         
+        //Prueba Menu
+        Menu m = new Menu();
+        m.MenuPrincipal();
+        
     }
     
 }
